@@ -1,0 +1,17 @@
+.h_style{
+    width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+    display: block;
+    color: brown;
+}
+.content_center{
+    max-width: 400px;
+    margin: 0 auto;
+}
+.box_border{
+    border: 1px solid black;
+    border-radius: 30px;
+}
